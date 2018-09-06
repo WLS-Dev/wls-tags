@@ -1,0 +1,1244 @@
+[
+    {
+        "value": "money",
+        "synonyms": [
+            "money"
+        ]
+    },
+    {
+        "value": "new",
+        "synonyms": [
+            "new"
+        ]
+    },
+    {
+        "value": "happy",
+        "synonyms": [
+            "happy"
+        ]
+    },
+    {
+        "value": "business",
+        "synonyms": [
+            "business"
+        ]
+    },
+    {
+        "value": "rap",
+        "synonyms": [
+            "rap"
+        ]
+    },
+    {
+        "value": "crypto",
+        "synonyms": [
+            "crypto"
+        ]
+    },
+    {
+        "value": "hi",
+        "synonyms": [
+            "hi"
+        ]
+    },
+    {
+        "value": "trading",
+        "synonyms": [
+            "trading"
+        ]
+    },
+    {
+        "value": "bts",
+        "synonyms": [
+            "bts"
+        ]
+    },
+    {
+        "value": "games",
+        "synonyms": [
+            "games"
+        ]
+    },
+    {
+        "value": "philippines",
+        "synonyms": [
+            "philippines"
+        ]
+    },
+    {
+        "value": "politics",
+        "synonyms": [
+            "politics"
+        ]
+    },
+    {
+        "value": "bitshares",
+        "synonyms": [
+            "bitshares"
+        ]
+    },
+    {
+        "value": "musicians",
+        "synonyms": [
+            "musicians"
+        ]
+    },
+    {
+        "value": "positivity",
+        "synonyms": [
+            "positivity"
+        ]
+    },
+    {
+        "value": "yensesa",
+        "synonyms": [
+            "yensesa"
+        ]
+    },
+    {
+        "value": "arte",
+        "synonyms": [
+            "arte"
+        ]
+    },
+    {
+        "value": "christain-trail",
+        "synonyms": [
+            "christain-trail"
+        ]
+    },
+    {
+        "value": "receta",
+        "synonyms": [
+            "receta"
+        ]
+    },
+    {
+        "value": "blog",
+        "synonyms": [
+            "blog"
+        ]
+    },
+    {
+        "value": "success",
+        "synonyms": [
+            "success"
+        ]
+    },
+    {
+        "value": "whaletokens",
+        "synonyms": [
+            "whaletokens"
+        ]
+    },
+    {
+        "value": "challenge",
+        "synonyms": [
+            "challenge"
+        ]
+    },
+    {
+        "value": "memes",
+        "synonyms": [
+            "memes"
+        ]
+    },
+    {
+        "value": "naturaleza",
+        "synonyms": [
+            "naturaleza"
+        ]
+    },
+    {
+        "value": "ru",
+        "synonyms": [
+            "ru"
+        ]
+    },
+    {
+        "value": "art",
+        "synonyms": [
+            "art"
+        ]
+    },
+    {
+        "value": "humor",
+        "synonyms": [
+            "humor"
+        ]
+    },
+    {
+        "value": "teamaustralia",
+        "synonyms": [
+            "teamaustralia"
+        ]
+    },
+    {
+        "value": "science",
+        "synonyms": [
+            "science"
+        ]
+    },
+    {
+        "value": "rewards",
+        "synonyms": [
+            "rewards"
+        ]
+    },
+    {
+        "value": "milkboxcontest",
+        "synonyms": [
+            "milkboxcontest"
+        ]
+    },
+    {
+        "value": "family",
+        "synonyms": [
+            "family"
+        ]
+    },
+    {
+        "value": "gif",
+        "synonyms": [
+            "gif"
+        ]
+    },
+    {
+        "value": "poesia",
+        "synonyms": [
+            "poesia"
+        ]
+    },
+    {
+        "value": "basketball",
+        "synonyms": [
+            "basketball"
+        ]
+    },
+    {
+        "value": "comida",
+        "synonyms": [
+            "comida"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "music"
+        ]
+    },
+    {
+        "value": "smtshare",
+        "synonyms": [
+            "smtshare"
+        ]
+    },
+    {
+        "value": "dj",
+        "synonyms": [
+            "dj"
+        ]
+    },
+    {
+        "value": "pixel",
+        "synonyms": [
+            "pixel"
+        ]
+    },
+    {
+        "value": "facebook",
+        "synonyms": [
+            "facebook"
+        ]
+    },
+    {
+        "value": "nature",
+        "synonyms": [
+            "nature"
+        ]
+    },
+    {
+        "value": "poem",
+        "synonyms": [
+            "poem"
+        ]
+    },
+    {
+        "value": "prayer",
+        "synonyms": [
+            "prayer"
+        ]
+    },
+    {
+        "value": "dutch",
+        "synonyms": [
+            "dutch"
+        ]
+    },
+    {
+        "value": "songwriter",
+        "synonyms": [
+            "songwriter"
+        ]
+    },
+    {
+        "value": "fitness",
+        "synonyms": [
+            "fitness"
+        ]
+    },
+    {
+        "value": "education",
+        "synonyms": [
+            "education"
+        ]
+    },
+    {
+        "value": "choon",
+        "synonyms": [
+            "choon"
+        ]
+    },
+    {
+        "value": "mixedmedia",
+        "synonyms": [
+            "mixedmedia"
+        ]
+    },
+    {
+        "value": "eos",
+        "synonyms": [
+            "eos"
+        ]
+    },
+    {
+        "value": "soccer",
+        "synonyms": [
+            "soccer"
+        ]
+    },
+    {
+        "value": "psychology",
+        "synonyms": [
+            "psychology"
+        ]
+    },
+    {
+        "value": "altruistic-wls",
+        "synonyms": [
+            "altruistic-wls"
+        ]
+    },
+    {
+        "value": "wls-africa",
+        "synonyms": [
+            "wls-africa"
+        ]
+    },
+    {
+        "value": "community",
+        "synonyms": [
+            "community"
+        ]
+    },
+    {
+        "value": "wlseducation",
+        "synonyms": [
+            "wlseducation"
+        ]
+    },
+    {
+        "value": "celebration",
+        "synonyms": [
+            "celebration"
+        ]
+    },
+    {
+        "value": "inspiration",
+        "synonyms": [
+            "inspiration"
+        ]
+    },
+    {
+        "value": "funny",
+        "synonyms": [
+            "funny"
+        ]
+    },
+    {
+        "value": "insects",
+        "synonyms": [
+            "insects"
+        ]
+    },
+    {
+        "value": "howto",
+        "synonyms": [
+            "howto"
+        ]
+    },
+    {
+        "value": "dsound",
+        "synonyms": [
+            "dsound"
+        ]
+    },
+    {
+        "value": "colourfulphotography",
+        "synonyms": [
+            "colourfulphotography"
+        ]
+    },
+    {
+        "value": "technology",
+        "synonyms": [
+            "technology"
+        ]
+    },
+    {
+        "value": "fotografia",
+        "synonyms": [
+            "fotografia"
+        ]
+    },
+    {
+        "value": "steem",
+        "synonyms": [
+            "steem"
+        ]
+    },
+    {
+        "value": "ua",
+        "synonyms": [
+            "ua"
+        ]
+    },
+    {
+        "value": "coffee",
+        "synonyms": [
+            "coffee"
+        ]
+    },
+    {
+        "value": "literatura",
+        "synonyms": [
+            "literatura"
+        ]
+    },
+    {
+        "value": "whaleshareart",
+        "synonyms": [
+            "whaleshareart"
+        ]
+    },
+    {
+        "value": "introduce-yourself",
+        "synonyms": [
+            "introduce-yourself"
+        ]
+    },
+    {
+        "value": "football",
+        "synonyms": [
+            "football"
+        ]
+    },
+    {
+        "value": "whalesounds",
+        "synonyms": [
+            "whalesounds"
+        ]
+    },
+    {
+        "value": "investing",
+        "synonyms": [
+            "investing"
+        ]
+    },
+    {
+        "value": "fort-nite",
+        "synonyms": [
+            "fort-nite"
+        ]
+    },
+    {
+        "value": "naijapidgin",
+        "synonyms": [
+            "naijapidgin"
+        ]
+    },
+    {
+        "value": "recipe",
+        "synonyms": [
+            "recipe"
+        ]
+    },
+    {
+        "value": "america",
+        "synonyms": [
+            "america"
+        ]
+    },
+    {
+        "value": "silentzen",
+        "synonyms": [
+            "silentzen"
+        ]
+    },
+    {
+        "value": "smtshares",
+        "synonyms": [
+            "smtshares"
+        ]
+    },
+    {
+        "value": "vlog",
+        "synonyms": [
+            "vlog"
+        ]
+    },
+    {
+        "value": "edm",
+        "synonyms": [
+            "edm"
+        ]
+    },
+    {
+        "value": "gaming",
+        "synonyms": [
+            "gaming"
+        ]
+    },
+    {
+        "value": "beyondbitcoin",
+        "synonyms": [
+            "beyondbitcoin"
+        ]
+    },
+    {
+        "value": "pba",
+        "synonyms": [
+            "pba"
+        ]
+    },
+    {
+        "value": "sound",
+        "synonyms": [
+            "sound"
+        ]
+    },
+    {
+        "value": "musicoin",
+        "synonyms": [
+            "musicoin"
+        ]
+    },
+    {
+        "value": "creative",
+        "synonyms": [
+            "creative"
+        ]
+    },
+    {
+        "value": "support",
+        "synonyms": [
+            "support"
+        ]
+    },
+    {
+        "value": "eosio",
+        "synonyms": [
+            "eosio"
+        ]
+    },
+    {
+        "value": "meme",
+        "synonyms": [
+            "meme"
+        ]
+    },
+    {
+        "value": "english",
+        "synonyms": [
+            "english"
+        ]
+    },
+    {
+        "value": "vida",
+        "synonyms": [
+            "vida"
+        ]
+    },
+    {
+        "value": "whaletoken",
+        "synonyms": [
+            "whaletoken"
+        ]
+    },
+    {
+        "value": "photofeed",
+        "synonyms": [
+            "photofeed"
+        ]
+    },
+    {
+        "value": "sweet",
+        "synonyms": [
+            "sweet"
+        ]
+    },
+    {
+        "value": "change",
+        "synonyms": [
+            "change"
+        ]
+    },
+    {
+        "value": "bittube",
+        "synonyms": [
+            "bittube"
+        ]
+    },
+    {
+        "value": "literature",
+        "synonyms": [
+            "literature"
+        ]
+    },
+    {
+        "value": "original",
+        "synonyms": [
+            "original"
+        ]
+    },
+    {
+        "value": "musician",
+        "synonyms": [
+            "musician"
+        ]
+    },
+    {
+        "value": "photocontests",
+        "synonyms": [
+            "photocontests"
+        ]
+    },
+    {
+        "value": "macrophotography",
+        "synonyms": [
+            "macrophotography"
+        ]
+    },
+    {
+        "value": "nigeria",
+        "synonyms": [
+            "nigeria"
+        ]
+    },
+    {
+        "value": "philosophy",
+        "synonyms": [
+            "philosophy"
+        ]
+    },
+    {
+        "value": "bible-review",
+        "synonyms": [
+            "bible-review"
+        ]
+    },
+    {
+        "value": "ftlob",
+        "synonyms": [
+            "ftlob"
+        ]
+    },
+    {
+        "value": "cricket",
+        "synonyms": [
+            "cricket"
+        ]
+    },
+    {
+        "value": "test",
+        "synonyms": [
+            "test"
+        ]
+    },
+    {
+        "value": "hello",
+        "synonyms": [
+            "hello"
+        ]
+    },
+    {
+        "value": "hobby",
+        "synonyms": [
+            "hobby"
+        ]
+    },
+    {
+        "value": "photo",
+        "synonyms": [
+            "photo"
+        ]
+    },
+    {
+        "value": "bhive",
+        "synonyms": [
+            "bhive"
+        ]
+    },
+    {
+        "value": "love",
+        "synonyms": [
+            "love"
+        ]
+    },
+    {
+        "value": "christian-trail",
+        "synonyms": [
+            "christian-trail"
+        ]
+    },
+    {
+        "value": "cryptocurrency",
+        "synonyms": [
+            "cryptocurrency"
+        ]
+    },
+    {
+        "value": "stories",
+        "synonyms": [
+            "stories"
+        ]
+    },
+    {
+        "value": "positivexposure",
+        "synonyms": [
+            "positivexposure"
+        ]
+    },
+    {
+        "value": "news",
+        "synonyms": [
+            "news"
+        ]
+    },
+    {
+        "value": "investment",
+        "synonyms": [
+            "investment"
+        ]
+    },
+    {
+        "value": "history",
+        "synonyms": [
+            "history"
+        ]
+    },
+    {
+        "value": "spanish",
+        "synonyms": [
+            "spanish"
+        ]
+    },
+    {
+        "value": "contest",
+        "synonyms": [
+            "contest"
+        ]
+    },
+    {
+        "value": "blockchain",
+        "synonyms": [
+            "blockchain"
+        ]
+    },
+    {
+        "value": "originalmusic",
+        "synonyms": [
+            "originalmusic"
+        ]
+    },
+    {
+        "value": "fiction",
+        "synonyms": [
+            "fiction"
+        ]
+    },
+    {
+        "value": "lifestyle",
+        "synonyms": [
+            "lifestyle"
+        ]
+    },
+    {
+        "value": "curation",
+        "synonyms": [
+            "curation"
+        ]
+    },
+    {
+        "value": "easydex",
+        "synonyms": [
+            "easydex"
+        ]
+    },
+    {
+        "value": "story",
+        "synonyms": [
+            "story"
+        ]
+    },
+    {
+        "value": "flaminghelpers",
+        "synonyms": [
+            "flaminghelpers"
+        ]
+    },
+    {
+        "value": "christianity",
+        "synonyms": [
+            "christianity"
+        ]
+    },
+    {
+        "value": "poetry",
+        "synonyms": [
+            "poetry"
+        ]
+    },
+    {
+        "value": "bbcas",
+        "synonyms": [
+            "bbcas"
+        ]
+    },
+    {
+        "value": "whaleshare",
+        "synonyms": [
+            "whaleshare"
+        ]
+    },
+    {
+        "value": "givens",
+        "synonyms": [
+            "givens"
+        ]
+    },
+    {
+        "value": "nsfw",
+        "synonyms": [
+            "nsfw"
+        ]
+    },
+    {
+        "value": "motivation",
+        "synonyms": [
+            "motivation"
+        ]
+    },
+    {
+        "value": "hairshares",
+        "synonyms": [
+            "hairshares"
+        ]
+    },
+    {
+        "value": "freedom",
+        "synonyms": [
+            "freedom"
+        ]
+    },
+    {
+        "value": "atun4ve",
+        "synonyms": [
+            "atun4ve"
+        ]
+    },
+    {
+        "value": "msp-waves",
+        "synonyms": [
+            "msp-waves"
+        ]
+    },
+    {
+        "value": "fortnite",
+        "synonyms": [
+            "fortnite"
+        ]
+    },
+    {
+        "value": "introducemyself",
+        "synonyms": [
+            "introducemyself"
+        ]
+    },
+    {
+        "value": "india",
+        "synonyms": [
+            "india"
+        ]
+    },
+    {
+        "value": "animals",
+        "synonyms": [
+            "animals"
+        ]
+    },
+    {
+        "value": "projectmilkbox",
+        "synonyms": [
+            "projectmilkbox"
+        ]
+    },
+    {
+        "value": "steemit",
+        "synonyms": [
+            "steemit"
+        ]
+    },
+    {
+        "value": "comunidad",
+        "synonyms": [
+            "comunidad"
+        ]
+    },
+    {
+        "value": "creativity",
+        "synonyms": [
+            "creativity"
+        ]
+    },
+    {
+        "value": "charity",
+        "synonyms": [
+            "charity"
+        ]
+    },
+    {
+        "value": "beautiful-life",
+        "synonyms": [
+            "beautiful-life"
+        ]
+    },
+    {
+        "value": "smartphonephotography",
+        "synonyms": [
+            "smartphonephotography"
+        ]
+    },
+    {
+        "value": "review",
+        "synonyms": [
+            "review"
+        ]
+    },
+    {
+        "value": "programming",
+        "synonyms": [
+            "programming"
+        ]
+    },
+    {
+        "value": "witness",
+        "synonyms": [
+            "witness"
+        ]
+    },
+    {
+        "value": "positive",
+        "synonyms": [
+            "positive"
+        ]
+    },
+    {
+        "value": "busy",
+        "synonyms": [
+            "busy"
+        ]
+    },
+    {
+        "value": "venezuela",
+        "synonyms": [
+            "venezuela"
+        ]
+    },
+    {
+        "value": "airdrop",
+        "synonyms": [
+            "airdrop"
+        ]
+    },
+    {
+        "value": "steemnaira",
+        "synonyms": [
+            "steemnaira"
+        ]
+    },
+    {
+        "value": "curiosidades",
+        "synonyms": [
+            "curiosidades"
+        ]
+    },
+    {
+        "value": "altcoins",
+        "synonyms": [
+            "altcoins"
+        ]
+    },
+    {
+        "value": "introduction",
+        "synonyms": [
+            "introduction"
+        ]
+    },
+    {
+        "value": "tokens",
+        "synonyms": [
+            "tokens"
+        ]
+    },
+    {
+        "value": "africa",
+        "synonyms": [
+            "africa"
+        ]
+    },
+    {
+        "value": "travel",
+        "synonyms": [
+            "travel"
+        ]
+    },
+    {
+        "value": "cooking",
+        "synonyms": [
+            "cooking"
+        ]
+    },
+    {
+        "value": "video",
+        "synonyms": [
+            "video"
+        ]
+    },
+    {
+        "value": "cia",
+        "synonyms": [
+            "cia"
+        ]
+    },
+    {
+        "value": "indie",
+        "synonyms": [
+            "indie"
+        ]
+    },
+    {
+        "value": "beekeeping",
+        "synonyms": [
+            "beekeeping"
+        ]
+    },
+    {
+        "value": "radio",
+        "synonyms": [
+            "radio"
+        ]
+    },
+    {
+        "value": "market",
+        "synonyms": [
+            "market"
+        ]
+    },
+    {
+        "value": "god",
+        "synonyms": [
+            "god"
+        ]
+    },
+    {
+        "value": "sharing",
+        "synonyms": [
+            "sharing"
+        ]
+    },
+    {
+        "value": "writing",
+        "synonyms": [
+            "writing"
+        ]
+    },
+    {
+        "value": "animal",
+        "synonyms": [
+            "animal"
+        ]
+    },
+    {
+        "value": "health",
+        "synonyms": [
+            "health"
+        ]
+    },
+    {
+        "value": "photograph",
+        "synonyms": [
+            "photograph"
+        ]
+    },
+    {
+        "value": "atomcollector",
+        "synonyms": [
+            "atomcollector"
+        ]
+    },
+    {
+        "value": "electronic",
+        "synonyms": [
+            "electronic"
+        ]
+    },
+    {
+        "value": "analysis",
+        "synonyms": [
+            "analysis"
+        ]
+    },
+    {
+        "value": "musica",
+        "synonyms": [
+            "musica"
+        ]
+    },
+    {
+        "value": "life",
+        "synonyms": [
+            "life"
+        ]
+    },
+    {
+        "value": "castellano",
+        "synonyms": [
+            "castellano"
+        ]
+    },
+    {
+        "value": "asiangames",
+        "synonyms": [
+            "asiangames"
+        ]
+    },
+    {
+        "value": "coffee-cup",
+        "synonyms": [
+            "coffee-cup"
+        ]
+    },
+    {
+        "value": "photography",
+        "synonyms": [
+            "photography"
+        ]
+    },
+    {
+        "value": "workout",
+        "synonyms": [
+            "workout"
+        ]
+    },
+    {
+        "value": "whaleshares",
+        "synonyms": [
+            "whaleshares"
+        ]
+    },
+    {
+        "value": "liberland",
+        "synonyms": [
+            "liberland"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "show"
+        ]
+    },
+    {
+        "value": "technical",
+        "synonyms": [
+            "technical"
+        ]
+    },
+    {
+        "value": "introduceyourself",
+        "synonyms": [
+            "introduceyourself"
+        ]
+    },
+    {
+        "value": "drawing",
+        "synonyms": [
+            "drawing"
+        ]
+    },
+    {
+        "value": "wls",
+        "synonyms": [
+            "wls"
+        ]
+    },
+    {
+        "value": "food",
+        "synonyms": [
+            "food"
+        ]
+    },
+    {
+        "value": "bitcoin",
+        "synonyms": [
+            "bitcoin"
+        ]
+    },
+    {
+        "value": "design",
+        "synonyms": [
+            "design"
+        ]
+    },
+    {
+        "value": "tutorial",
+        "synonyms": [
+            "tutorial"
+        ]
+    },
+    {
+        "value": "newbie",
+        "synonyms": [
+            "newbie"
+        ]
+    },
+    {
+        "value": "fun",
+        "synonyms": [
+            "fun"
+        ]
+    },
+    {
+        "value": "telos",
+        "synonyms": [
+            "telos"
+        ]
+    },
+    {
+        "value": "sports",
+        "synonyms": [
+            "sports"
+        ]
+    }
+]
