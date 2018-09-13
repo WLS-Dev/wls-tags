@@ -33,13 +33,22 @@ def scrape_wls_tag():
 			if (v["top_posts"] < 3): # We need at least 3 posts to show the user
 				continue
 
-			accepted_tags.append({"value": k, "synonyms": [k]})
+			synonym_list = []
+			synonym_list.append(k)
+
+			if "-" in k:
+				k_space = k.replace("-", " ")
+				k_dot = k.replace("-", ".")
+				k_underscore = k.replace("-", "_")
+				synonym_list.append(k_space)
+				synonym_list.append(k_dot)
+				synonym_list.append(k_underscore)
+
+			accepted_tags.append({"value": k, "synonyms": synonym_list})
 
 		print(accepted_tags)
 		write_json_to_disk('wls_tags.json', accepted_tags) # Storing to disk
-
-		return accepted_tags
 	else:
-		return None
+		print("FAILURE!")
 
-print(scrape_wls_tag())
+scrape_wls_tag()
